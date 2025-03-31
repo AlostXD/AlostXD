@@ -1,19 +1,23 @@
-# 👋 Olá, eu sou Alost!
+# 👋 Hello, I'm Alost!
 
-💻 I'm a developer t.
+🎓 I am a web developer currently pursuing a degree in Information Systems and, in the future, also a degree in Systems Analysis and Development. Additionally, I am a teacher of Game Development for Children and Teenagers.
 
-## 🚀 Minhas Habilidades
+## 🚀 My Skills
 
-- 🔹 **Linguagens:** Java, JavaScript, TypeScript, Python, C
-- 🔹 **Banco de Dados:** PostgreSQL
+- 🔹 **Languages:** Java, JavaScript, TypeScript, Python, C
+- 🔹 **Databases:** PostgreSQL
 - 🔹 **Frameworks:** Next.js, Prisma, Tailwind CSS
 
-## 📊 Minhas Estatísticas
+## 🖥️ My Languages
 
-[![AlostXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlostXD)](https://github.com/AlostXD/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlostXD)](https://github.com/AlostXD/github-readme-stats)
+
+## 📊 My Statistics
+
+[![AlostXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlostXD&theme=dark)](https://github.com/AlostXD/github-readme-stats)
 
 ---
 
-🔗 **Me encontre em:**  
+🔗 **Find me:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vanderlei-ribeiro-41807324b/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/AlostXD)  
