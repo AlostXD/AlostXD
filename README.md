@@ -10,7 +10,7 @@
 
 ## 📊 Minhas Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=radical)
+[![AlostXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlostXD)](https://github.com/AlostXD/github-readme-stats)
 
 ---
 
