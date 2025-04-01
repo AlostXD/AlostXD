@@ -10,7 +10,7 @@
 
 ## 🖥️ My Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlostXD&layout=donut)](https://github.com/AlostXD/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlostXD&layout=donut&theme=dark)](https://github.com/AlostXD/github-readme-stats)
 
 ## 📊 My Statistics
 
